@@ -4,3 +4,4 @@ A Project to Develop a Personality analysis System based on Machine learning Tec
 -- References
 1. https://blog.mettl.com/guide/psychometric-assessment-test/
 2. https://towardsdatascience.com/a-data-science-approach-to-personality-models-d3c7e18a377
+3. https://towardsdatascience.com/visualizing-the-personality-profile-of-any-film-character-using-python-and-ibm-watson-78ad2fcee065
